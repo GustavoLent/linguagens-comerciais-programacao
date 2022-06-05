@@ -1,11 +1,11 @@
-package JogoDaVelha.Models;
+package Exercicios.JogoDaVelha.Models;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import JogoDaVelha.Enums.SpaceStatusEnum;
-import JogoDaVelha.Exceptions.AlreadyUsedSpaceException;
+import Exercicios.JogoDaVelha.Enums.SpaceStatusEnum;
+import Exercicios.JogoDaVelha.Exceptions.AlreadyUsedSpaceException;
 
 public class Row {
   final static SpaceStatusEnum INITIAL_SPACE_STATUS = SpaceStatusEnum.EMPTY;

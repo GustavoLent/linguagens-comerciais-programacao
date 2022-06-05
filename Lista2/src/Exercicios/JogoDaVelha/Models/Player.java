@@ -1,6 +1,6 @@
-package JogoDaVelha.Models;
+package Exercicios.JogoDaVelha.Models;
 
-import JogoDaVelha.Enums.SpaceStatusEnum;
+import Exercicios.JogoDaVelha.Enums.SpaceStatusEnum;
 
 public class Player {
   private String ID;

@@ -1,10 +1,10 @@
-package JogoDaVelha.Models;
+package Exercicios.JogoDaVelha.Models;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import JogoDaVelha.Enums.SpaceStatusEnum;
+import Exercicios.JogoDaVelha.Enums.SpaceStatusEnum;
 
 public class Board {
   private List<Row> rows = Arrays.asList(new Row(), new Row(), new Row());

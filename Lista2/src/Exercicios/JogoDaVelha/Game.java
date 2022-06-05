@@ -1,13 +1,13 @@
-package JogoDaVelha;
+package Exercicios.JogoDaVelha;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-import JogoDaVelha.Enums.SpaceStatusEnum;
-import JogoDaVelha.Exceptions.AlreadyUsedSpaceException;
-import JogoDaVelha.Models.Board;
-import JogoDaVelha.Models.Player;
-import JogoDaVelha.Services.ScreenService;
+import Exercicios.JogoDaVelha.Enums.SpaceStatusEnum;
+import Exercicios.JogoDaVelha.Exceptions.AlreadyUsedSpaceException;
+import Exercicios.JogoDaVelha.Models.Board;
+import Exercicios.JogoDaVelha.Models.Player;
+import Exercicios.JogoDaVelha.Services.ScreenService;
 
 public class Game {
   final Board board = new Board();

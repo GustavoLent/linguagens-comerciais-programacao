@@ -1,7 +1,6 @@
-package JogoDaVelha.Services;
+package Exercicios.JogoDaVelha.Services;
 
 import java.io.IOException;
-import java.io.PrintStream;
 
 public class ScreenService {
   private static final String ANSI_RESET = "\u001B[0m";

@@ -1,4 +1,4 @@
-package JogoDaVelha.Enums;
+package Exercicios.JogoDaVelha.Enums;
 
 public enum SpaceStatusEnum {
   X, O, EMPTY;
